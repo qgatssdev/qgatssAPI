@@ -3,7 +3,6 @@ GET http://localhost:3000/subscribers/61d70ddd75e7cb3afc1dd451
 ###
 
 POST http://localhost:3000/subscribers
-
 Content-Type: application/json
 
 {
